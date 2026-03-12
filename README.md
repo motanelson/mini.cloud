@@ -1,1 +1,1 @@
-hello world video
+ai scalar predict
